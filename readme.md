@@ -1,0 +1,1 @@
+this is a demo project for learning dash & plotly for data visualization
